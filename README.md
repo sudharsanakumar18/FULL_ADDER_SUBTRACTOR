@@ -84,16 +84,18 @@ endmodule
 */
 ```
 **RTL Schematic**
+### FULL ADDER:
 ![image](https://github.com/sudharsanakumar18/FULL_ADDER_SUBTRACTOR/assets/138849110/2ecf9eee-d7b1-418a-96f6-37f76a23728c)
+### FULL SUBSTRACTOR:
+![image](https://github.com/sudharsanakumar18/FULL_ADDER_SUBTRACTOR/assets/138849110/2c59ad58-14df-4b8a-9422-907613cd69df)
 
 
 **Output Timing Waveform**
-# FULL ADDER:
-![image](https://github.com/sudharsanakumar18/FULL_ADDER_SUBTRACTOR/assets/138849110/0e48c83a-b207-4a9c-bc2a-505d16a76660)
+## FULL ADDER:
+![image](https://github.com/sudharsanakumar18/FULL_ADDER_SUBTRACTOR/assets/138849110/170fe551-5e99-4f95-bb68-81e7797e97e1)
 
 # FULL SUBSTRACTOR:
-![image](https://github.com/sudharsanakumar18/FULL_ADDER_SUBTRACTOR/assets/138849110/56f68b70-fc85-4491-949a-45b025cf2d0f)
-
+![image](https://github.com/sudharsanakumar18/FULL_ADDER_SUBTRACTOR/assets/138849110/45e5df51-6bad-4919-8c02-3c2a0d2e96a7)
 
 **Result:**
 
